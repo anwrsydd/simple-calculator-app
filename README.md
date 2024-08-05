@@ -1,6 +1,6 @@
 # Simple Calculator App
 
-Simple Calculator App using NextJS and TailwindCSS
+Simple Calculator App using ReactJS and TailwindCSS
 
 ## Install
 
